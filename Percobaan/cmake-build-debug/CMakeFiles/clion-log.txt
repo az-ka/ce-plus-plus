@@ -1,0 +1,4 @@
+C:\Users\haise\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/haise/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/ninja/win/ninja.exe -G Ninja E:\Ngoding\C++\Percobaan
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Ngoding/C++/Percobaan/cmake-build-debug
